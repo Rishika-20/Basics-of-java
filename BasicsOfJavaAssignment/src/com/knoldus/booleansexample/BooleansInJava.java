@@ -14,8 +14,7 @@ public class BooleansInJava {
 		}
 		else 
 		{			
-			System.out.println("Enjoy the sunshine");
-
+		       System.out.println("Enjoy the sunshine");
 		}
 	}
 
