@@ -16,6 +16,7 @@ public class ArithmeticOperations {
 		System.out.println("Difference is: "+difference);
 		System.out.println("Product is: "+product);
 		System.out.println("Quotient is: "+quotient);
+		System.out.println("Quotient is: "+quotient);
 
 	}
 
